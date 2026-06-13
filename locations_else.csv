@@ -1,0 +1,40 @@
+id,name,locality,timezone,is_mobile,is_monitor,distance,lat,lon,country_code,country_name,provider_name,owner_name,first_utc,last_utc
+8876,Almaty,N/A,Asia/Almaty,False,True,,43.252855,76.93118,KZ,Kazakhstan,AirNow,Unknown Governmental Organization,2020-04-09 17:00:00+00:00,2025-11-14 11:00:00+00:00
+2812550,Almaty Arena,,Asia/Almaty,False,False,,43.26408,76.81688,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2024-12-05 09:40:53+00:00
+2812555,Magnum Besagash,,Asia/Almaty,False,False,,43.29222,77.01218,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2024-07-05 19:25:01+00:00
+2812561,CHP,,Asia/Almaty,False,False,,43.29161,76.80437,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-15 06:24:33+00:00
+2812563,School 137,,Asia/Almaty,False,False,,43.31676,76.91084,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-08-31 04:01:45+00:00
+2812565,Kokzhiyek-63,,Asia/Almaty,False,False,,43.35813,76.9229,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-11-30 09:26:27+00:00
+2812576,EkoPost,,Asia/Almaty,False,False,,43.24966,76.8056,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 07:04:32+00:00
+2812620,Alatau,,Asia/Almaty,False,False,,43.17658,76.89771,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:00:16+00:00
+2812632,Elaman 105 St.,,Asia/Almaty,False,False,,43.36861,76.94705,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-11-27 20:00:58+00:00
+2812635,Atyrau 54,,Asia/Almaty,False,False,,43.29678,76.99159,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:24:45+00:00
+2812649,Shamiyeva St.,,Asia/Almaty,False,False,,43.28323,76.92753,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-12-01 10:22:15+00:00
+2812651,Kokkainar Micro,,Asia/Almaty,False,False,,43.29076,76.84123,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:53:33+00:00
+2812676,Suiynbay-55,,Asia/Almaty,False,False,,43.37664,76.99055,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-11-28 12:21:33+00:00
+2812687,KBTU,,Asia/Almaty,False,False,,43.25348,76.94537,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:33:38+00:00
+2812689,Iliyski trakt,,Asia/Almaty,False,False,,43.34158,76.98193,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:49:52+00:00
+2812690,School 187,,Asia/Almaty,False,False,,43.18579,76.82848,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:44:07+00:00
+2812691,169 School,,Asia/Almaty,False,False,,43.29713,76.8611,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:59:26+00:00
+2812716,Ritz Palace,,Asia/Almaty,False,False,,43.22833,76.96028,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:25:14+00:00
+2812717,Mamyr-3,,Asia/Almaty,False,False,,43.21431,76.8555,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:47:11+00:00
+2812718,Gymnasium 39,,Asia/Almaty,False,False,,43.34819,76.8433,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:35:11+00:00
+2812726,Hospital-7,,Asia/Almaty,False,False,,43.23396,76.80013,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:59:37+00:00
+2812749,Ryskulova 81,,Asia/Almaty,False,False,,43.27865,76.90347,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:30:45+00:00
+2812751,School 77,,Asia/Almaty,False,False,,43.21846,76.94964,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:37:36+00:00
+2812753,School 190,,Asia/Almaty,False,False,,43.15476,76.8992,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:32:06+00:00
+2812756,School 175,,Asia/Almaty,False,False,,43.19957,76.85428,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-05-11 19:00:11+00:00
+2812769,Nicolas International chain of wineries,,Asia/Almaty,False,False,,43.19365,76.90963,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:45:22+00:00
+2812775,School 192,,Asia/Almaty,False,False,,43.17203,76.85234,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:44:52+00:00
+2812784,Respublika 4,,Asia/Almaty,False,False,,43.2368,76.94481,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:40:24+00:00
+2812788,Magnum-273,,Asia/Almaty,False,False,,43.25074,76.82301,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2024-08-09 00:01:45+00:00
+2812792,Kotelnikova St.,,Asia/Almaty,False,False,,43.3104,76.94217,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-11-30 06:45:36+00:00
+2812809,AsiaFood,,Asia/Almaty,False,False,,43.24283,76.82872,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:30:16+00:00
+2812821,School 160,,Asia/Almaty,False,False,,43.33584,76.91287,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-03-24 14:15:05+00:00
+2812826,Zhetysu 47,,Asia/Almaty,False,False,,43.29171,76.9898,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:43:04+00:00
+2812831,"Road, Almaty Industrial Zone",,Asia/Almaty,False,False,,43.31652,76.80429,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 07:02:56+00:00
+2812833,DIS-7,,Asia/Almaty,False,False,,43.20533,76.77692,KZ,Kazakhstan,Clarity,Clarity,2024-04-24 16:00:00+00:00,2025-10-16 06:39:59+00:00
+2819013,Nurly street,,Asia/Almaty,False,False,,43.2288,76.77749,KZ,Kazakhstan,Clarity,Clarity,2024-04-28 16:00:00+00:00,2025-10-07 16:04:11+00:00
+2819078,Shkola-Gimnaziya 152,,Asia/Almaty,False,False,,43.30173,76.87217,KZ,Kazakhstan,Clarity,Clarity,2024-04-28 17:00:36+00:00,2025-10-12 13:41:57+00:00
+3124030,Ippodrom,,Asia/Almaty,False,False,,43.30778,76.92324,KZ,Kazakhstan,Clarity,Clarity,2024-10-13 04:23:32+00:00,2025-08-01 16:08:05+00:00
+3126921,School 186,,Asia/Almaty,False,False,,43.19148,76.80284,KZ,Kazakhstan,Clarity,Clarity,2024-10-13 18:35:46+00:00,2025-09-06 14:14:26+00:00

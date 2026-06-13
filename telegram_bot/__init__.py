@@ -1,0 +1,1 @@
+"""AEROSTAT Telegram bot package."""

@@ -1,0 +1,18 @@
+{
+  "target": "pm25",
+  "location_id": 8876,
+  "history_hours": 24,
+  "horizon_hours": 24,
+  "feature_cols": [
+    "pm25",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "rows_used": 2000,
+  "train_windows": 1562,
+  "test_windows": 391,
+  "mae": 16.1558,
+  "rmse": 22.6017
+}

@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+web/*.db
+web/*.log
+telegram_bot/*.db
+telegram_bot/*.log
